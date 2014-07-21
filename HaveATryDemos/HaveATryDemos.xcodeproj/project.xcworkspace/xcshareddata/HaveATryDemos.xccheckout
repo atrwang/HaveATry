@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD8EE38F-1810-46CE-9932-036CD26A5CDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HaveATryDemos</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E00155B5-4406-4C70-AD40-6F81A7ABCA52</key>
+		<string>https://github.com/atrwang/HaveATry.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HaveATryDemos/HaveATryDemos.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E00155B5-4406-4C70-AD40-6F81A7ABCA52</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/atrwang/HaveATry.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E00155B5-4406-4C70-AD40-6F81A7ABCA52</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E00155B5-4406-4C70-AD40-6F81A7ABCA52</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HaveATry</string>
+		</dict>
+	</array>
+</dict>
+</plist>
